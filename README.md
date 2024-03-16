@@ -1,63 +1,34 @@
-# Welcome to [Eliud Macharia]'s GitHub Profile!
+![Programming Student](https://media.istockphoto.com/id/513544018/vector/young-programmer-coding-a-new-project.jpg?s=1024x1024&w=is&k=20&c=cEss7Vo6UM66osHtQcfZVrIJKEKue2JoBgDpdBxUss8=)
 
-Hi there! I'm [Eliud Macharia], a passionate software developer student with a keen interest in Python, web technologies, and software engineering. Welcome to my GitHub profile, where I share my projects, learnings, and experiences.
+# Hi there 👋, My name is Eliud Macharia
+### I am a Progamming Student, currently learning coding.
 
-## About Me
+# About Me
+Hello! I'm Eliud, a passionate programming student diving deep into the world of software development. Currently, my focus lies on mastering Python, Dart with Flutter, software engineering principles, and various web technologies.
 
-Brief introduction about yourself. You can include information like your education, career goals, and interests related to software development.
+I thrive on the challenge of solving complex problems and enjoy exploring the ever-evolving landscape of technology. With a keen interest in creating impactful and innovative solutions, I am dedicated to continuous learning and growth in this dynamic field.
 
-## Skills
+Beyond coding, I also enjoy collaborating with peers, exploring new projects, and contributing to the vibrant developer community. Let's connect and embark on this exciting journey together! 
 
-List of your skills related to software development. For example:
+# Skills
 
-- Programming Languages:
-  - Python
-  - JavaScript
-  - HTML/CSS
-- Web Technologies:
-  - Flask/Django
-  - React/Vue.js
-  - RESTful APIs
-- Software Engineering:
-  - Version Control (Git)
-  - Software Design Patterns
-  - Agile Methodologies
+PYTHON / BASH / JS / HTML / CSS
 
-## Projects
+- 🔭 I’m currently working on PYTHON PROJECTS 
+- 🌱 I’m currently learning Software Engineering & Linux
+- 👯 I’m looking to collaborate on PYTHON, FLUTTER, and BASH
+- 💬 Ask me about PYTHON 
+- 📫 How to reach me: eliud6747@gmail.com
+- ⚡ Fun fact: "Coding is my canvas, where every line of code paints a masterpiece of innovation and possibility." 
 
-Highlight some of your notable projects. Include a brief description and links to their repositories or live demos. You can also include screenshots or GIFs to showcase your work.
 
-1. **Project Name 1**
-   - Description: Brief description of the project.
-   - Repository: [Link](https://github.com/your-username/project-name-1)
-   - Demo: [Link](https://example.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EliudMash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/#/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/#/)  
 
-2. **Project Name 2**
-   - Description: Brief description of the project.
-   - Repository: [Link](https://github.com/your-username/project-name-2)
-   - Demo: [Link](https://example.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliudMash)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact Me
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EliudMash&show_icons=true)  
 
-Provide ways for others to reach out to you or connect with you. You can include links to your social media profiles, email address, or personal website.
+![GitHub metrics](https://metrics.lecoq.io/EliudMash)  
 
-- GitHub: [Your GitHub Profile](https://github.com/EliudMash)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email:eliud6747@gmail.com
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EliudMash)  
 
-## Gallery
-
-Showcase images or screenshots related to your projects or software development journey. You can include GIFs or images of code snippets, project demos, or events you've attended.
-
-![Image 1](image1.jpg)
-![Image 2](image2.png)
-
-## Style Guide
-
-If you have a particular style or coding convention you follow, you can include it here. This could include information about code formatting, documentation standards, or design principles you adhere to.
-
-## License
-
-Specify the license under which your profile repository and its contents are distributed. For example:
-
-This profile repository is licensed under the [MIT License](LICENSE).
