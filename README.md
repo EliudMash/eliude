@@ -1,4 +1,4 @@
-![Programming Student](https://media.istockphoto.com/id/513544018/vector/young-programmer-coding-a-new-project.jpg?s=1024x1024&w=is&k=20&c=cEss7Vo6UM66osHtQcfZVrIJKEKue2JoBgDpdBxUss8=)
+![Programming Student](https://images.pexels.com/photos/207580/pexels-photo-207580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 # Hi there 👋, My name is Eliud Macharia
 ### I am a Progamming Student, currently learning coding.
